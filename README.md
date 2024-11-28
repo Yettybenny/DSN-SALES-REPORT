@@ -23,8 +23,8 @@ Tasks: Use Power BI to create dashboards.
 
 ### Key Insights 
 
-1) Sales Report:
-- Insight
+-- Sales Report:
+Insight
 
 - The total sales figure is $1.92M, with monthly sales averaging $355K.
 - There are fluctuations in monthly revenue, with May showing the lowest revenue ($307K) and February the highest ($390K).
