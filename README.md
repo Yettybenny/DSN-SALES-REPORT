@@ -25,6 +25,9 @@ Tasks: Use Power BI to create dashboards.
 
 1) Sales Report:
 
+   
+![Screenshot (140)](https://github.com/user-attachments/assets/8483f70e-e2e4-499b-be25-31b64ec08519)
+
 Insight:
 
 - The total sales figure is $1.92M, with monthly sales averaging $355K.
@@ -42,6 +45,9 @@ Insight:
 
 2) Product Performance:
 
+   
+![Screenshot (141)](https://github.com/user-attachments/assets/2f26e04c-9fef-4491-9111-a206efae8111)
+
 Insight:
 
 - The profit margin is relatively low at 12%, with a total profit of $224K.
@@ -57,6 +63,9 @@ Insight:
 - Since Labels and Binders Accessories have a high-profit margin, bundle them with products like Storage and Organization items to increase overall profitability.
 
 3) Customer Segment:
+
+![Screenshot (142)](https://github.com/user-attachments/assets/ab4f6c7c-b0d1-4918-b15a-96a61a19a4b8)
+
 
 Insight:
 
