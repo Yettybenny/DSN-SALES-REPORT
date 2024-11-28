@@ -24,7 +24,8 @@ Tasks: Use Power BI to create dashboards.
 ### Key Insights 
 
 1) Sales Report:
-Insight
+
+Insight:
 
 - The total sales figure is $1.92M, with monthly sales averaging $355K.
 - There are fluctuations in monthly revenue, with May showing the lowest revenue ($307K) and February the highest ($390K).
@@ -40,6 +41,7 @@ Insight
 -Technology is leading, but the gap between Technology and Office Supplies is not wide. You might want to invest in improving technology offerings and upselling Office Supplies by pairing them with technology purchases.
 
 2) Product Performance:
+
 Insight:
 
 - The profit margin is relatively low at 12%, with a total profit of $224K.
@@ -55,7 +57,8 @@ Insight:
 - Since Labels and Binders Accessories have a high-profit margin, bundle them with products like Storage and Organization items to increase overall profitability.
 
 3) Customer Segment:
-- Insight:
+
+Insight:
 
 - The total quantity ordered is 25K, with a customer base of 1952.
 - Small businesses and consumers contribute most to profit, while home offices and corporate customers are slightly behind.
