@@ -23,7 +23,7 @@ Tasks: Use Power BI to create dashboards.
 
 ### Key Insights 
 
--- Sales Report:
+1) Sales Report:
 Insight
 
 - The total sales figure is $1.92M, with monthly sales averaging $355K.
@@ -40,7 +40,7 @@ Insight
 -Technology is leading, but the gap between Technology and Office Supplies is not wide. You might want to invest in improving technology offerings and upselling Office Supplies by pairing them with technology purchases.
 
 2) Product Performance:
-- Insight:
+Insight:
 
 - The profit margin is relatively low at 12%, with a total profit of $224K.
 - Labels and Binders Accessories have the highest profit margin at 32%, while Paper, Appliances, and Storage have much lower margins.
